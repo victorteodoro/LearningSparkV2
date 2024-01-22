@@ -4,6 +4,7 @@
 hs_err_pid*
 .metals
 .vscode
+.scalafmt.conf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
